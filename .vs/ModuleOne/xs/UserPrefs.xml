@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{59F003DF-CEE5-4372-B1CA-268D0A958AF1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ModuleOne/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="ModuleOne/Startup.cs" Line="27" Column="1" />
+      <File FileName="ModuleOne/Views/Home/Index.cshtml" Line="2" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ModuleOne" expanded="True">
+            <Node name="ModuleOne" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ModuleOne PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
